@@ -35,7 +35,7 @@
 - 😄 Pronouns: He/His
 
 [![Twitter: shahalam9183](https://img.shields.io/twitter/follow/shahalam9183?style=social)](https://twitter.com/shahalam9183)
-[![Linkedin: shah-alam-89296b175](https://img.shields.io/badge/-shah-alam-89296b175-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shah-alam-89296b175/)](https://www.linkedin.com/in/shah-alam-89296b175/)
+[![Linkedin: shah-alam-89296b175](https://img.shields.io/badge/-shahalam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shah-alam-89296b175/)](https://www.linkedin.com/in/shah-alam-89296b175/)
 [![GitHub shahalam-official](https://img.shields.io/github/followers/shahalam-official?label=follow&style=social)](https://github.com/shahalam-official)
 
 
