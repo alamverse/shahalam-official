@@ -9,7 +9,7 @@
   <img align="left" alt="Shah Alam's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/shahalam-official">
-  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Shah Alam's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://t.me/shahalamofficial">
   <img align="left" alt="Shah Alam's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
@@ -35,7 +35,7 @@
 - 😄 Pronouns: He/His
 
 [![Twitter: shahalam9183](https://img.shields.io/twitter/follow/shahalam9183?style=social)](https://twitter.com/shahalam9183)
-[![Linkedin: shah-alam-89296b175](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shah-alam-89296b175/)](https://www.linkedin.com/in/shah-alam-89296b175/)
+[![Linkedin: shah-alam-89296b175](https://img.shields.io/badge/-shah-alam-89296b175-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shah-alam-89296b175/)](https://www.linkedin.com/in/shah-alam-89296b175/)
 [![GitHub shahalam-official](https://img.shields.io/github/followers/shahalam-official?label=follow&style=social)](https://github.com/shahalam-official)
 
 
@@ -52,6 +52,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahalam-official&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/shahalam-official">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahalam-official&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahalam-official&show_icons=true&theme=light&line_height=27" alt="Shah Alam's github stats"/>
 </a>
 
