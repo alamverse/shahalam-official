@@ -29,9 +29,9 @@
 
 
 
-- 🔭 I’m currently working on [Iqra Technology](https://www.iqratechnology.com/).
+- 🔭 I’m currently working in [VeriPark](https://www.veripark.com).
 - 🌱 I’m currently learning more about Flutter.
-- 📫 How to reach me: [Instagram - @shah_alam.official](https://instagram.com/shah_alam.official/)
+- 📫 How to reach me: [Instagram - @shah_alam.ok](https://instagram.com/shah_alam.ok/)
 - 😄 Pronouns: He/His
 
 [![Twitter: shahalam9183](https://img.shields.io/twitter/follow/shahalam9183?style=social)](https://twitter.com/shahalam9183)
